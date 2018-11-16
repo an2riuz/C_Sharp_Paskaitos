@@ -23,13 +23,18 @@ namespace _4_paskaita_2018_11_12
             Console.WriteLine("Jusu KMI: " + KMI(ugis_m, svoris));
             Console.WriteLine("Jus esate: " + FizBusena(ugis_m, svoris));
             */
-            int a = 13;
-            int b = 9;
+            
+            int a = 45;
+            int b = 28;
             int c = 87;
-            Console.WriteLine("Didziausias skaicius " + Max(a,b,c));
-            Console.WriteLine("Ar skaicius a yra tarp b ir c: " + InRange(a,b,c));
-            Console.WriteLine("Ar skaicius yra pirminis: " + IsPrimal(a));
-            Console.WriteLine("Atsitiktinis numeris yra: " + D20());
+            //Console.WriteLine("Didziausias skaicius " + Max(a,b,c));
+            // Console.WriteLine("Ar skaicius a yra tarp b ir c: " + InRange(a,b,c));
+            //Console.WriteLine("Ar skaicius yra pirminis: " + IsPrimal(a));
+            //Console.WriteLine("Atsitiktinis numeris yra: " + D20());
+
+
+
+            Console.WriteLine("Grazintas skaicius: " + NuoIki(b,c));
             Console.ReadKey();
         }
         static void SayHello()
@@ -114,6 +119,24 @@ namespace _4_paskaita_2018_11_12
             Random random = new Random();
             int randomNumber = random.Next(0,100);
             return randomNumber;
+        }
+        static int NuoIki(int b, int c)
+        {
+            int a = 0;
+            do
+            {
+                Console.WriteLine("Iveskite skaiciu tarp reziu nuo {0} iki {1}: ", b, c);
+                a = Convert.ToInt32(Console.ReadLine());
+                if (InRange(a, b, c))
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Klaidingas ivedimas, kartokite: ");
+                }
+            } while (!InRange(a, b, c));
+            return a;
         }
     }
 }

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrius\\Documents\\cSharpCoursePractice\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12.csproj",
+      "projectUniqueName": "C:\\Users\\Andrius\\Documents\\C_Sharp_Paskaitos\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12.csproj",
       "projectName": "4 paskaita 2018 11 12",
-      "projectPath": "C:\\Users\\Andrius\\Documents\\cSharpCoursePractice\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12.csproj",
+      "projectPath": "C:\\Users\\Andrius\\Documents\\C_Sharp_Paskaitos\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12.csproj",
       "packagesPath": "C:\\Users\\Andrius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrius\\Documents\\cSharpCoursePractice\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12\\obj\\",
+      "outputPath": "C:\\Users\\Andrius\\Documents\\C_Sharp_Paskaitos\\4 paskaita 2018 11 12\\4 paskaita 2018 11 12\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

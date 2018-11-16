@@ -9,3 +9,14 @@ C:\Users\Andrius\Documents\cSharpCoursePractice\4 paskaita 2018 11 12\4 paskaita
 C:\Users\Andrius\Documents\cSharpCoursePractice\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.AssemblyInfo.cs
 C:\Users\Andrius\Documents\cSharpCoursePractice\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.dll
 C:\Users\Andrius\Documents\cSharpCoursePractice\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.pdb
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\bin\Debug\netcoreapp2.1\4 paskaita 2018 11 12.deps.json
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\bin\Debug\netcoreapp2.1\4 paskaita 2018 11 12.runtimeconfig.json
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\bin\Debug\netcoreapp2.1\4 paskaita 2018 11 12.runtimeconfig.dev.json
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\bin\Debug\netcoreapp2.1\4 paskaita 2018 11 12.dll
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\bin\Debug\netcoreapp2.1\4 paskaita 2018 11 12.pdb
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.csprojAssemblyReference.cache
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.csproj.CoreCompileInputs.cache
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.AssemblyInfoInputs.cache
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.AssemblyInfo.cs
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.dll
+C:\Users\Andrius\Documents\C_Sharp_Paskaitos\4 paskaita 2018 11 12\4 paskaita 2018 11 12\obj\Debug\netcoreapp2.1\4 paskaita 2018 11 12.pdb
